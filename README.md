@@ -18,4 +18,6 @@
     - React (ChakraUI, Vitejs)
     - Nodejs
     - Firestore database
-
+- Provided admin account for the application:
+    - Username: phuonghang
+    - Password: 123456
