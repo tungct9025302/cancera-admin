@@ -1,4 +1,4 @@
-## Title: Cancer patient management
+## Title: Cancer patient management (admin version)
 
 ---
 
@@ -6,7 +6,7 @@
 
 - Web application for medical facilities to manage cancer patients & their related information (including 3 records: appointment, general examination, treatment).
 - Features:
-    - Admin Login / Logout
+    - Admin Login / Logout (initialize project and access website http://localhost:3000/cancera-admin/2vKT4Lo84PB90ASaKAR5)
     - Manage users
         - Set role
         - Delete user
