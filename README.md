@@ -19,5 +19,5 @@
     - Nodejs
     - Firestore database
 - Provided admin account for the application:
-    - Username: phuonghang
+    - Username: phuonghang@yahoo.com
     - Password: 123456
